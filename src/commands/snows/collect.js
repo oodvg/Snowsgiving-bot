@@ -1,5 +1,5 @@
 const { MessageEmbed } = require("discord.js");
-const throwImageURL = "https://raw.githubusercontent.com/L0SER8228/snowsgiving-bot/main/src/assets/images/throw.png";
+const throwImageURL = "https://raw.githubusercontent.com/oodvg/snowsgiving-bot/main/src/assets/images/throw.png";
 
 module.exports = {
   name: "collect",

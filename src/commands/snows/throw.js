@@ -1,7 +1,7 @@
 const data = require("../../assets/jsons/data.json");
 const { MessageEmbed } = require("discord.js");
-const hitImageURL = "https://raw.githubusercontent.com/L0SER8228/snowsgiving-bot/main/src/assets/images/hit.png";
-const missImageURL = "https://raw.githubusercontent.com/L0SER8228/snowsgiving-bot/main/src/assets/images/miss.png";
+const hitImageURL = "https://raw.githubusercontent.com/oodvg/snowsgiving-bot/main/src/assets/images/hit.png";
+const missImageURL = "https://raw.githubusercontent.com/oodvg/snowsgiving-bot/main/src/assets/images/miss.png";
 
 module.exports = {
   name: "throw",
