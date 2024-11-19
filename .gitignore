@@ -106,3 +106,4 @@ dist
 # config stuff
 
 config.json
+package-lock.json

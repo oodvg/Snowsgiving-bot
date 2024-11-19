@@ -6,10 +6,6 @@
   "homepage": "https://github.com/yawn999/Snowsgiving-2022#README",
   "main": "src/index.js",
   "private": true,
-  "author": {
-    "name": "L0SER8228",
-    "url": "https://dvg.halfcloud.org"
-  },
   "scripts": {
     "test": "echo \"error: no test specified\" && exit 1",
     "start": "node src/index.js"
